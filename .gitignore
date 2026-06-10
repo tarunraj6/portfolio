@@ -1,0 +1,19 @@
+# PHP binaries (large files, not needed for source control)
+php/*.exe
+php/*.dll
+php/*.lib
+php/dev/
+php/ext/
+php/extras/
+php/lib/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# WordPress core (if you want to track only custom content)
+# wordpress/wp-admin/
+# wordpress/wp-includes/
+
+# Logs
+*.log
